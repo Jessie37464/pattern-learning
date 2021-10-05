@@ -3,6 +3,7 @@ py-patterns
 
 
 设计模式的`Python3.X`版本
+参考链接：https://github.com/wklken/py-patterns
 
 ### 分类
 
@@ -41,32 +42,5 @@ py-patterns
 - 备忘录   [memento](https://github.com/wklken/py-patterns/blob/master/Behavioral/memento.py)
 - 迭代器   [iterator](https://github.com/wklken/py-patterns/blob/master/Behavioral/iterator.py)
 
-### 参考
-
-- 大话设计模式
-- 图解设计模式
-- [python-patterns](https://github.com/faif/python-patterns)
-
-### TODO:
-
-- review with https://github.com/faif/python-patterns
 
 
-# Donation
-
-You can Buy me a coffee:)  [link](http://www.wklken.me/pages/donation.html)
-
-
-------------------------
-------------------------
-
-wklken
-
-Email: wklken@yeah.net
-
-Github: https://github.com/wklken
-
-Blog: [http://www.wklken.me](http://www.wklken.me)
-
-2015-08-24 ShenZheng
-2020-03-13 [HuQianshan](https://github.com/huqianshan)
